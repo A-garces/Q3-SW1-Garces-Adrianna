@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    background-color: beige;
+    color: #E5A8B1;
+}
+
+.container {
+    text-align: center;
+    margin-top: 2%;
+    border-radius: 5%;
+    background-color: #e5bdcc6f;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    border-radius: 5%;
+}
+
+button {
+    margin-bottom: 2%;
+}
